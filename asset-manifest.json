@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/obiwanclickgame/static/css/main.26bb3a02.chunk.css",
+    "main.js": "/obiwanclickgame/static/js/main.b6d666f0.chunk.js",
+    "main.js.map": "/obiwanclickgame/static/js/main.b6d666f0.chunk.js.map",
+    "runtime~main.js": "/obiwanclickgame/static/js/runtime~main.c4b4319a.js",
+    "runtime~main.js.map": "/obiwanclickgame/static/js/runtime~main.c4b4319a.js.map",
+    "static/js/2.7ddef5e4.chunk.js": "/obiwanclickgame/static/js/2.7ddef5e4.chunk.js",
+    "static/js/2.7ddef5e4.chunk.js.map": "/obiwanclickgame/static/js/2.7ddef5e4.chunk.js.map",
+    "index.html": "/obiwanclickgame/index.html",
+    "precache-manifest.9e4cf3e12eb8135bcd12d5055022f877.js": "/obiwanclickgame/precache-manifest.9e4cf3e12eb8135bcd12d5055022f877.js",
+    "service-worker.js": "/obiwanclickgame/service-worker.js",
+    "static/css/main.26bb3a02.chunk.css.map": "/obiwanclickgame/static/css/main.26bb3a02.chunk.css.map"
+  }
+}
