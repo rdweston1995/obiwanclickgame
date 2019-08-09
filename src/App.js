@@ -2,9 +2,9 @@ import React, { Component } from "react";
 import {BrowserRouter as Router} from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
-import IMG from "./components/img";
+import IMG from "./components/Img";
 import imgs from "./imgs.json";
-import "./app.css";
+import "./App.css";
 
 class App extends Component {
     state = {
