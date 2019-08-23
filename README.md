@@ -3,7 +3,7 @@ This is a app that I created to practice and learn React. You can click on the i
  ## Deployed
 [github pages](https://rdweston1995.github.io/obiwanclickgame).
 
-### Technoligies Used
+### Technologies Used
 * JavaScript
 * CSS
 * HTML
